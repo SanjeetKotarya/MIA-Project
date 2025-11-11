@@ -1,4 +1,4 @@
-# Medical Image Registration: Affine and B-Spline Deformable Registration
+# Multi-modal Brain Image Registration(CT–MRI or PET–MRI)
 
 ## Abstract
 
