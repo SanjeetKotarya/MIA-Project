@@ -72,8 +72,8 @@ Masks for Dice/IoU are generated automatically using Otsu thresholding and large
 ### 4.1 Qualitative Results
 
 Visual inspection of the overlay images (`overlay_before.png` and `overlay_after.png`) demonstrates significant improvement in alignment after registration. The registered image shows much better correspondence with the fixed image compared to the initial misalignment.
-<img width="300" height="317" alt="overlay_before" text-align ="center" src="https://github.com/user-attachments/assets/9a1b3d2f-a3df-4bf6-a49a-2d7392e5237e" />
-<img width="300" height="317" alt="overlay_after" text-align ="center" src="https://github.com/user-attachments/assets/6ba133bd-9ba2-44c5-9af2-809847c7280e" />
+<img width="300" height="317" alt="overlay_before" src="https://github.com/user-attachments/assets/9a1b3d2f-a3df-4bf6-a49a-2d7392e5237e" />
+<img width="300" height="317" alt="overlay_after" src="https://github.com/user-attachments/assets/6ba133bd-9ba2-44c5-9af2-809847c7280e" />
 
 
 ### 4.2 Quantitative Results
