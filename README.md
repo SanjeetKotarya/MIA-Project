@@ -79,13 +79,7 @@ The registration metrics are computed and summarized in the following table. Res
 
 | Metric | Before Registration | After Registration | Improvement |
 |--------|---------------------|-------------------|-------------|
-| Mean TRE (mm) | N/A | [Value] | N/A |
-| Dice Coefficient | [Value] | [Value] | [Value] |
-| IoU | [Value] | [Value] | [Value] |
-| PSNR (dB) | [Value] | [Value] | [Value] |
-| SSIM | [Value] | [Value] | [Value] |
-| NCC | [Value] | [Value] | [Value] |
-|Mean TRE (mm)	|N/A	26.5161	|N/A|
+|Mean TRE (mm)	|N/A	|26.5161	|N/A|
 |Dice Coefficient	|0.8294	|0.0353	|-0.7941|
 |IoU	|0.7086	|0.0180	|-0.6906|
 |PSNR (dB)	|7.9830	|8.0129	|+0.0299|
